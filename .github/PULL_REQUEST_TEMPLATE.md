@@ -12,11 +12,16 @@ Foi Realizada a refatoração de um codigo que eu tinha de outra disciplina, um 
 
 ### Função
 <img width="730" alt="image" src="./images/image.png">
+<br/>
+<img width="730" alt="image" src="./images/image2.png">
+<br/>
 
 Criação de uma função para calcular a média das notas. 
 
 ### Variaveis
 <img width="730" alt="image" src="./images/image1.png">
+<br/>
+<img width="730" alt="image" src="./images/image3.png">
 <br/>
 
 ## Tipo de mudança (marcar as alternativas que se encaixam)
