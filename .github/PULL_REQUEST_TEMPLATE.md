@@ -8,7 +8,7 @@ Foi Realizada a refatoração de um codigo que eu tinha de outra disciplina, um 
 - Melhor separação das funções 
 
 
-## Ajuste
+## Ajustes
 
 ### Função
 <img width="730" alt="image" src="./images/image.png">
